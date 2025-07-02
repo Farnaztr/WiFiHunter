@@ -1,8 +1,10 @@
 # WiFiHunter - Advanced Wi-Fi Scanner for Windows using Python
 <p align="center">
-![Author](https://img.shields.io/badge/Author-farnaztr-grey)
-![Project](https://img.shields.io/badge/Project-WiFiHunter-purple)
-![Stars](https://img.shields.io/github/stars/farnaztr/WiFiHunter?style=social)
+  <img src="https://img.shields.io/badge/Author-farnaztr-grey" />
+  <img src="https://img.shields.io/badge/Project-WiFiHunter-purple" />
+  <img src="https://img.shields.io/github/stars/farnaztr/WiFiHunter?style=social" />
+
+
 </p>
 ---
 
