@@ -3,9 +3,8 @@
   <img src="https://img.shields.io/badge/Author-farnaztr-grey" />
   <img src="https://img.shields.io/badge/Project-WiFiHunter-purple" />
   <img src="https://img.shields.io/github/stars/farnaztr/WiFiHunter?style=social" />
-
-
 </p>
+
 ---
 
 ## Overview
