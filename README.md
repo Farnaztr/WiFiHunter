@@ -2,7 +2,6 @@
 
 ![Author](https://img.shields.io/badge/Author-farnaztr-grey)
 ![Project](https://img.shields.io/badge/Project-WiFiHunter-purple)
-![Downloads](https://img.shields.io/badge/downloads-1.5k-brightgreen)
 ![Stars](https://img.shields.io/github/stars/farnaztr/WiFiHunter?style=social)
 
 ---
@@ -40,11 +39,35 @@ It then parses the output using **regex** and presents key info in a readable fo
 
 ```bash
 SSID: MyNetwork, Signal: 87%, Encryption: WPA2-Personal
-
+```
 ---
 
 ##📂 Usage
 Clone the repository:
 
+```bash
 git clone https://github.com/farnaztr/WiFiHunter.git
 cd WiFiHunter
+```
+Run the script:
+
+```bash
+python wifihunter.py
+```
+## Sample Output
+
+```bash
+SSID: HomeWiFi, Signal: 78%, Encryption: WPA2-Personal
+SSID: Cafe_Free, Signal: 32%, Encryption: Open
+SSID: TP-LINK_1234, Signal: 50%, Encryption: WPA3
+```
+## Limitations!!
+
+1.Only works on Windows
+
+2.Cannot connect to networks – it’s a scanner, not a client
+
+3.May require terminal with UTF-8 support for full compatibility
+
+
+
