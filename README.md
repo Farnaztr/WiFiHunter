@@ -43,7 +43,7 @@ SSID: MyNetwork, Signal: 87%, Encryption: WPA2-Personal
 ```
 ---
 
-##📂 Usage
+## 📂 Usage
 
 Clone the repository:
 
