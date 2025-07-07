@@ -1,6 +1,6 @@
 # WiFiHunter - Advanced Wi-Fi Scanner for Windows 
 <p align="center">
-  <img src="https://img.shields.io/badge/Author-farnaztr-grey" />
+  <img src="https://img.shields.io/badge/Author-farnaztr-darkred" />
   <img src="https://img.shields.io/badge/Project-WiFiHunter-purple" />
   <img src="https://img.shields.io/github/stars/farnaztr/WiFiHunter?style=social" />
 </p>
@@ -44,6 +44,7 @@ SSID: MyNetwork, Signal: 87%, Encryption: WPA2-Personal
 ---
 
 ##📂 Usage
+
 Clone the repository:
 
 ```bash
