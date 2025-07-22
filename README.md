@@ -54,7 +54,7 @@ cd WiFiHunter
 Run the script:
 
 ```bash
-python wifihunter.py
+python WiFiHunter.py
 ```
 ## Sample Output
 
